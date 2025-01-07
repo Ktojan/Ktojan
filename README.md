@@ -1,52 +1,42 @@
-<h1 align="center">Hello ✋  I'm Andrey Karpovich </h1>
-<h3 align="center">Software Web Developer from Ukraine 🇺🇦 with focus on frontend and desktop apps</h3>
--------------------
+<h1 align="center">Hello 👋  I'm Andrey Karpovich </h1>
+<h3 align="center">Software Web Developer from Ukraine 🇺🇦 with a focus on frontend</h3>
+
 
 ## 🛠️ Technical Toolbox and Expertise
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,html,scss,plus,angular,react,nextjs,nodejs,plus,rxjs,tailwindcss,apollo,graphql,git" />
 </p>
 
-### Frontend Development
-- **Core**: Angular, React, TypeScript
+### Core Skills
+- **Languages, Frameworks**: Javascript, TypeScript, Angular, React + Next.js
+- **Markup, Styling**: semantic HTML5, CSS3, SCSS,  fxLayout, css-grid 
+- **Backend interaction**: Rest API, Apollo + GraphQL, Node.js + Express, websocket
+- **UI Libraries**: Angular Material, TailwindCSS, MUI, Ant design
+
+### Other expertise
 - **State Management**: RxJS, NgRx, Redux
-- **Reactive Programming**: RxJS
-- **UI Libraries**: PrimeNG, Angular Material UI, MUI, Chakra UI, shadcn
-- **Styling**: SCSS, PrimeFlex, Tailwind CSS
+- **Libraries**:  HTTP, chart.js, GIS: Mapbox-GL API, Leaflet.js + plugins 
+- **Testing**: Karma + Jasmine, React Test Library, Browserstack for testing mobile
+- **Tools and work process**: Agile (Scrum), JIRA, Trello; Figma; Git, GitKraken
+- **Team Collaboration**: implementing clean code practices, participating in brainstorms and code reviews, contributing to tech debts, supporting junior developers
 
-
-## 🚀 Featured Projects
+## 🥇 🥈  Featured Projects
 
 ### Web Curriculum Vitae
 > Modern SPA on Angular
 
-- 🔧 **Tech Stack**: Angular, Apollo Client, Hasura GraphQL
-- 🧪 **Testing**: Cypress
+- 🖥 **Live Demo / Code**: [View App](https://ktojan.github.io/curricular) / [Repository](https://github.com/Ktojan/curricular)
+- 🔧 **Tech Stack**: Angular, Angular Material, Grid-css, Jasmine + Karma
+- 💡 **Strengths**: Architecture according to SOLID and DRY, reusable modules and some components
 
-## 💪 Core Competencies
+### Fullstack Mapping (geospatial) App
+> Almost fullstack app (Node+Express+Angular) as a geospatial service with GIS libraries.
 
-* **Software Development**
-   * Building and maintaining microservices
-   * Implementing clean code practices
-   * Experience with CI/CD pipelines
-   * Full-stack development across multiple projects
+- 🖥 **Live Demo / Code**: [View App](https://mean-mapbox-playground.vercel.app/) / [Repository](https://github.com/Ktojan/MEAN-mapbox-playground)
+- 🔧 **Tech Stack**: Node.js+Express4+jade, Angular 18, Angular Material, Mapbox GL, mapbox-gl-draw
+- 💡 **Strengths**: Modern high-quality interactive vector maps as a base, vast interactivity options
 
-* **Team Collaboration**
-   * Participating in code reviews
-   * Contributing to technical discussions
-   * Supporting junior developers
-   * Agile development experience
 
-* **Technical Skills**
-   * API design and integration
-   * Database optimization
-   * Unit and integration testing
-   * Debugging and troubleshooting
-
-- 👯 I’m looking to collaborate on GIS (maps, geospatial) related projects, have some expertise.
-- 🪚 🎸 ♟  Some of my hobbies\interests are: woodworking (wooden furniture), guitar + singing, maps + geospatial, chess, drone-filming, portuguese lang, prepping.
-- ⚡ Fun fact: my brother is 7 years younger, but started dev-career 7 years earlier than me (now he's senior fullstack). Yeah, I'm became a "switcher" in my early 30s.
-- 
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -57,7 +47,4 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
-
-
 
