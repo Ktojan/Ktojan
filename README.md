@@ -20,7 +20,7 @@
 - **Tools and work process**: Agile (Scrum), JIRA, Trello; Figma; Git, GitKraken
 - **Team Collaboration**: implementing clean code practices, participating in brainstorms and code reviews, contributing to tech debts, supporting junior developers
 
-## 🥇 🥈  Featured Projects
+## 🥇 🥈   Featured Projects
 
 ### Web Curriculum Vitae
 > Modern SPA on Angular
@@ -29,12 +29,21 @@
 - 🔧 **Tech Stack**: Angular, Angular Material, Grid-css, Jasmine + Karma
 - 💡 **Strengths**: Architecture according to SOLID and DRY, reusable modules and some components
 
+
 ### Fullstack Mapping (geospatial) App
 > Almost fullstack app (Node+Express+Angular) as a geospatial service with GIS libraries.
 
 - 🖥 **Live Demo / Code**: [View App](https://mean-mapbox-playground.vercel.app/) / [Repository](https://github.com/Ktojan/MEAN-mapbox-playground)
 - 🔧 **Tech Stack**: Node.js+Express4+jade, Angular 18, Angular Material, Mapbox GL, mapbox-gl-draw
 - 💡 **Strengths**: Modern high-quality interactive vector maps as a base, vast interactivity options
+
+
+### Ecommerce Angular + Apollo (GraphQL) modern shop
+> Explore a set of products with filtering, sorting, viewing options, cart  and wishlist and saving data across browser sessions
+
+- 🖥 **Live Demo / Code**: [View App](https://apollo-graphql-ecommerce-shop.vercel.app) [Repository](https://github.com/Ktojan/apollo-graphql-ecommerce-shop)
+- 🔧 **Tech Stack**: Angular, PrimeNG, PrimeFlex, Apollo Client, Hasura GraphQL, GraphQL, Cypress
+- 💡 **Strengths**: Nice looking adaptive design with great and robust functionality, modern effective API
 
 
 ## 🤝 Connect With Me
