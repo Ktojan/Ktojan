@@ -8,16 +8,16 @@
 </p>
 
 ### Core Skills
-- **Languages, Frameworks**: Javascript, TypeScript, Angular, React + Next.js
+- **Languages, Frameworks**: Javascript, TypeScript, Angular
 - **Markup, Styling**: semantic HTML5, CSS3, SCSS,  fxLayout, css-grid 
 - **Backend interaction**: Rest API, Apollo + GraphQL, Node.js + Express, websocket
 - **UI Libraries**: Angular Material, TailwindCSS, MUI, Ant design
 
 ### Other expertise
-- **State Management**: RxJS, NgRx, Redux
+- **State Management**: RxJS, NgRx
 - **Libraries**:  HTTP, chart.js, GIS: Mapbox-GL API, Leaflet.js + plugins 
 - **Testing**: Karma + Jasmine, React Test Library, Browserstack for testing mobile
-- **Tools and work process**: Agile (Scrum), JIRA, Trello; Figma; Git, GitKraken
+- **Tools and work process**: Agile (Scrum), JIRA, LucidChart; Figma; Git, Sourcetree
 - **Team Collaboration**: implementing clean code practices, participating in brainstorms and code reviews, contributing to tech debts, supporting junior developers
 
 ## 🥇 🥈   Featured Projects
