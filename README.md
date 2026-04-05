@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋  I'm Andrey Karpovich </h1>
-<h3 align="center">Software Web Developer from Ukraine 🇺🇦 with a focus on frontend</h3>
+<h3 align="center">Senior Fronted web developer from Ukraine 🇺🇦 </h3>
 
 
 ## 🛠️ Technical Toolbox and Expertise
@@ -8,26 +8,25 @@
 </p>
 
 ### Core Skills
-- **Languages, Frameworks**: Javascript, TypeScript, Angular
+- **Languages, Frameworks**: Javascript, TypeScript, Angular up to 21
 - **Markup, Styling**: semantic HTML5, CSS3, SCSS,  fxLayout, css-grid 
-- **Backend interaction**: Rest API, Apollo + GraphQL, Node.js + Express, websocket
-- **UI Libraries**: Angular Material, TailwindCSS, MUI, Ant design
+- **Backend interaction**: Rest API, Apollo + GraphQL, websocket
+- **UI Libraries**: Angular Material, TailwindCSS, MUI, tip-tap editor
 
 ### Other expertise
 - **State Management**: RxJS, NgRx
 - **Libraries**:  HTTP, chart.js, GIS: Mapbox-GL API, Leaflet.js + plugins 
-- **Testing**: Karma + Jasmine, React Test Library, Browserstack for testing mobile
+- **Testing**: Karma + Jasmine, Cypress, Browserstack for testing mobile
 - **Tools and work process**: Agile (Scrum), JIRA, LucidChart; Figma; Git, Sourcetree
 - **Team Collaboration**: implementing clean code practices, participating in brainstorms and code reviews, contributing to tech debts, supporting junior developers
 
 ## 🥇 🥈   Featured Projects
 
-### Web Curriculum Vitae
-> Modern SPA on Angular
+### Quiz-app on newest Angular
 
-- 🖥 **Live Demo / Code**: [View App](https://ktojan.github.io/curricular) / [Repository](https://github.com/Ktojan/curricular)
-- 🔧 **Tech Stack**: Angular, Angular Material, Grid-css, Jasmine + Karma
-- 💡 **Strengths**: Architecture according to SOLID and DRY, reusable modules and some components
+- 🖥 **Code**: [Repository](https://github.com/Ktojan/signal-service-store_quiz/tree/master)
+- 🔧 **Tech Stack**: Angular 20
+- 💡 **Strengths**: Newest Angular concepts: all types of signals, signal-based service as state-managment, new html syntax.
 
 
 ### Fullstack Mapping (geospatial) App
